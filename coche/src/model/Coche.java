@@ -7,7 +7,7 @@ package model;
 
 /**
  *
- * @author 100005543.joan23
+ * @author brendaguapa.joan23
  */
 public class Coche {
     String nombre;
